@@ -28,7 +28,7 @@
 
 8. Konfirmasi tagihan
 
-![alt tezt](image-8.png)
+![alt text](image-8.png)
 
 9. Tanda berhasil
 
