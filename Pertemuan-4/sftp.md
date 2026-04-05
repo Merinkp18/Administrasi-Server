@@ -33,4 +33,4 @@
     - Klik kanan pada file index.html
     - Klik edit
     - Edit file index.html menjadi company profile
-    ![Alt text](image-4s.png)
+    ![Alt text](image-4.png)
