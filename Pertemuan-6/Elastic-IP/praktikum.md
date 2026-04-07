@@ -12,4 +12,5 @@
     - pilih actions -> associate elastic IP
     - resource type yang pilih instance
     - klik associate
-    ![alt text](image.png)
+      
+ ![Alt text](image.png)
