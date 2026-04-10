@@ -1,5 +1,6 @@
 # UTS-Membuat Website CV
 
+# Elastic IP 18.138.65.80
 Merin Kharista Putri - 238010050
 
 1. Membuat instance EC2
