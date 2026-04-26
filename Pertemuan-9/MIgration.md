@@ -32,6 +32,7 @@ DB_PORT=3306
 
 NEXTAUTH_SECRET=ganti-dengan-string-acak-panjang-minimal-32-karakter
 NEXTAUTH_URL=http://16.176.14.124:3000/
+
 6. Di termiinal ssh cd ke folderstandalone run apps -pm2 start server.js -pm2 save -pm2 startup
 7. Buka port 3000 di securitygroup ec2 aws
 
