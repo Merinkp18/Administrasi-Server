@@ -26,7 +26,7 @@
 1. Buat db baru 'db_uas' dan buat user account baru 'uas_merin' beri privelleage untuk db 'db_uas'
 ![Alt text](image-10.png)
 2. Buat repo docker untuk web dinamis
-![Alt text](image-6.png)
+![Alt text](image-5.png)
 3. Buat website 
     - Buat Dockerfile yg menyesuaikan dengan bahasa dipakai (php)
     - Buat juga file docker-compose.yml di dalam folder web-dinamis
