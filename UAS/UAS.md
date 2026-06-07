@@ -16,7 +16,7 @@
 7. Buat Token di Docker
 ![Alt text](image-6.png)
 8. Buat secret_key di Github
-![Alt text](image-6.png)
+![Alt text](image-7.png)
 9. Deploy web statis
 ![Alt text](image-8.png)
 10. Tampil Web CV Statis
